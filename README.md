@@ -25,28 +25,79 @@ I'm a student aspiring to be a UI/UX designer, primarily focusing on web and app
 - - -
 
 ### Work Experience
-![](https://img.shields.io/badge/2024-6B6B6B?style=for-the-badge&logo=eee&logoColor=000)![](https://img.shields.io/badge/Sophia%20Game%20Project-F1F1F1?style=for-the-badge&logo=eee&logoColor=000)
+![](https://img.shields.io/badge/2024.03~-6B6B6B?style=for-the-badge&logo=eee&logoColor=000)![](https://img.shields.io/badge/Sophia%20Game%20Project-F1F1F1?style=for-the-badge&logo=eee&logoColor=000)
 </br>
 ![](https://img.shields.io/badge/🏅-PlayX4%20참가%20게임%20개발팀%20선정-blue)
 </br>
-![](https://img.shields.io/badge/🎨%20UI디자인:%20100-FF8E8E) ![](https://img.shields.io/badge/💡%20UI기획:%2050-5DBF4D)
+![](https://img.shields.io/badge/💡%20UI기획:%2050-5DBF4D) ![](https://img.shields.io/badge/🎨%20UI디자인:%20100-FF8E8E)
 </br>
 **프로젝트 소개**
 </br>
-3d 쿼터뷰 액션게임으로 총 2챕터로 구성 되어있는 PC게임입니다.
-AI와 전쟁을 이어가고 있는 미래의 배경으로 스토리가 전개되며, 랜덤하게 획득되는 스킬을 통해 매 플레이마다 새로운 조합으로 적들을 물리치며 이어가는 게임입니다. 시리즈1 <기어하트>와 연결되는 셰계관을 통해 IP를 구축했고, 매번 변화하는 맵의 구조와 적의 배치를 통해 다회차 플레이의 재미를 느낄 수 있습니다.
+3d 쿼터뷰 액션게임으로 총 2챕터로 구성 되어있는 PC게임입니다. <a href="https://game.naver.com/lounge/GEAR_HEART/home">more</a>
+
 </br>
-</br>
-![](https://img.shields.io/badge/2024-6B6B6B?style=for-the-badge&logo=eee&logoColor=000)![](https://img.shields.io/badge/COMMA%20Service-F1F1F1?style=for-the-badge&logo=eee&logoColor=000)
+
+![](https://img.shields.io/badge/2023.12~-6B6B6B?style=for-the-badge&logo=eee&logoColor=000)![](https://img.shields.io/badge/COMMA%20Service-F1F1F1?style=for-the-badge&logo=eee&logoColor=000)
 </br>
 ![](https://img.shields.io/badge/🏅-Solution%20Challenge%20Global%20Top%20100%20선정-blue)
 </br>
 ![](https://img.shields.io/badge/💡%20기획:%2050-5DBF4D) ![](https://img.shields.io/badge/🎨%20UI/UX디자인:%20100-FF8E8E)
-
+</br>
 **프로젝트 소개**
 </br>
-<COM-MA>는 어린이 코다에게 농인 부모가 직접 수화 언어 교육을 진행할 수 있게 도움을 주는 ‘AI 카메라 기반 수화 학습 교육 서비스’입니다. 농인 부모 사이에서 태어난 청인자녀를 의미하는 ‘코다’가 가정에서 농인의 문화, 사회에서는 청인의 문화를 경험하여 서로 다른 문화와 언어를 접해야하는 어려움을 인식하여 기획하게 된 프로젝트입니다. 일상 속 아이와 교류하며 수화 교육을 진행하고 싶은 농인 부모가 COM-MA Lens로 수화를 인식하여 빠르게 직접 수화 교육을 진행할 수 있고 정보는 학습 자료로도 기록하여 활용할 수 있습니다. <a href="https://github.com/COM-MA">more</a>
+<COM-MA>는 어린이 코다에게 농인 부모가 직접 수화 언어 교육을 진행할 수 있게 도움을 주는 ‘AI 카메라 기반 수화 학습 교육 서비스’입니다. <a href="https://github.com/COM-MA">more</a>
 
+</br>
+
+![](https://img.shields.io/badge/2023.05~-6B6B6B?style=for-the-badge&logo=eee&logoColor=000)![](https://img.shields.io/badge/Health%20Genie%20Service-F1F1F1?style=for-the-badge&logo=eee&logoColor=000)
+</br>
+![](https://img.shields.io/badge/💡%20기획:%2020-5DBF4D) ![](https://img.shields.io/badge/🎨%20UI/UX디자인:%20100-FF8E8E)
+</br>
+**프로젝트 소개**
+</br>
+Health-Genie는 대학생 간의 1:1 PT 매칭을 편하게 해주는 서비스 입니다.
+
+</br>
+
+![](https://img.shields.io/badge/2023.11~12-6B6B6B?style=for-the-badge&logo=eee&logoColor=000)![](https://img.shields.io/badge/시냇물:%20생성형%20AI에%20대해%20모든%20것을%20물어봐요!-F1F1F1?style=for-the-badge&logo=eee&logoColor=000)
+</br>
+![](https://img.shields.io/badge/💡%20기획:%2040-5DBF4D) ![](https://img.shields.io/badge/🎨%20UI/UX디자인:%20100-FF8E8E)
+</br>
+**프로젝트 소개**
+</br>
+시냇물 서비스는 생성형 AI에 대해 모든 것을 물어보고 답할 수 있는 지식 커뮤니티 서비스 입니다. <a href="https://www.behance.net/gallery/187349177/AI-">more</a>
+
+</br>
+
+![](https://img.shields.io/badge/2023.09~10-6B6B6B?style=for-the-badge&logo=eee&logoColor=000)![](https://img.shields.io/badge/내%20손%20안의%20AI%20가이드:%20POCKET%20AI-F1F1F1?style=for-the-badge&logo=eee&logoColor=000)
+</br>
+![](https://img.shields.io/badge/💡%20기획:%2040-5DBF4D) ![](https://img.shields.io/badge/🎨%20UI/UX디자인:%2070-FF8E8E)
+</br>
+**프로젝트 소개**
+</br>
+POCKET AI는 수많은 생성형 AI 서비스를 탐색해 자신에게 맞는 서비스를 간편하게 선택할 수 있도록 도와주는 앱 서비스입니다.  <a href="https://www.behance.net/gallery/187349025/POCKET-AI-AI-">more</a>
+
+</br>
+
+![](https://img.shields.io/badge/2023.09~10-6B6B6B?style=for-the-badge&logo=eee&logoColor=000)![](https://img.shields.io/badge/KiWee%20Project-F1F1F1?style=for-the-badge&logo=eee&logoColor=000)
+</br>
+![](https://img.shields.io/badge/💡%20기획:%2030-5DBF4D) ![](https://img.shields.io/badge/🎨%20UI/UX디자인:%20100-FF8E8E)
+</br>
+**프로젝트 소개**
+</br>
+KiWee 프로젝트는 개인화된 QR 코드와 KiWee Station라는 이름의 키오스크를 통해 간편하게 주문하며 음식 픽업 이용을 장려하는 플랫폼입니다.  <a href="https://github.com/no-ikjun/kiwee-app">more</a>
+
+</br>
+
+![](https://img.shields.io/badge/2023.09~10-6B6B6B?style=for-the-badge&logo=eee&logoColor=000)![](https://img.shields.io/badge/Memory%20Cell%20(Meta%20Island%20Project)-F1F1F1?style=for-the-badge&logo=eee&logoColor=000)
+</br>
+![](https://img.shields.io/badge/🏅-파이널%20그룹%20최종%207팀%20당선-blue)
+</br>
+![](https://img.shields.io/badge/💡%20기획:%2030-5DBF4D) ![](https://img.shields.io/badge/🎨%20컨셉%20아트%20디자인:%2050-FF8E8E)
+</br>
+**프로젝트 소개**
+</br>
+전라남도 여수에 위치한 '상화도'라는 무인도를 메타버스의 공간으로 재 해색해 랜드마크 건축물을 제작한 프로젝트 입니다. <a href="https://sites.google.com/view/meta-island/home">more</a>
 <!--
 **eunarae/eunarae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

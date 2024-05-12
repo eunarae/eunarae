@@ -45,7 +45,7 @@ I'm a student aspiring to be a UI/UX designer, primarily focusing on web and app
 </br>
 **프로젝트 소개**
 </br>
-<COMMA>는 어린이 코다에게 농인 부모가 직접 수화 언어 교육을 진행할 수 있게 도움을 주는 ‘AI 카메라 기반 수화 학습 교육 서비스’입니다. <a href="https://github.com/COM-MA">more</a>
+COMMA는 어린이 코다에게 농인 부모가 직접 수화 언어 교육을 진행할 수 있게 도움을 주는 ‘AI 카메라 기반 수화 학습 교육 서비스’입니다. <a href="https://github.com/COM-MA">more</a>
 
 </br>
 

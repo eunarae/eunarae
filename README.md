@@ -79,7 +79,7 @@ POCKET AI는 수많은 생성형 AI 서비스를 탐색해 자신에게 맞는 �
 
 </br>
 
-![](https://img.shields.io/badge/2023.09~10-6B6B6B?style=for-the-badge&logo=eee&logoColor=000)![](https://img.shields.io/badge/KiWee%20Project-F1F1F1?style=for-the-badge&logo=eee&logoColor=000)
+![](https://img.shields.io/badge/2023.08-6B6B6B?style=for-the-badge&logo=eee&logoColor=000)![](https://img.shields.io/badge/KiWee%20Project-F1F1F1?style=for-the-badge&logo=eee&logoColor=000)
 </br>
 ![](https://img.shields.io/badge/💡%20기획:%2030-5DBF4D) ![](https://img.shields.io/badge/🎨%20UI/UX디자인:%20100-FF8E8E)
 </br>
@@ -89,7 +89,7 @@ KiWee 프로젝트는 개인화된 QR 코드와 KiWee Station라는 이름의 �
 
 </br>
 
-![](https://img.shields.io/badge/2023.09~10-6B6B6B?style=for-the-badge&logo=eee&logoColor=000)![](https://img.shields.io/badge/Memory%20Cell%20(Meta%20Island%20Project)-F1F1F1?style=for-the-badge&logo=eee&logoColor=000)
+![](https://img.shields.io/badge/2023.05~08-6B6B6B?style=for-the-badge&logo=eee&logoColor=000)![](https://img.shields.io/badge/Memory%20Cell%20(Meta%20Island%20Project)-F1F1F1?style=for-the-badge&logo=eee&logoColor=000)
 </br>
 ![](https://img.shields.io/badge/🏅-파이널%20그룹%20최종%207팀%20당선-blue)
 </br>

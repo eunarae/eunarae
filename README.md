@@ -25,79 +25,108 @@ I'm a student aspiring to be a UI/UX designer, primarily focusing on web and app
 - - -
 
 ### Work Experience
-![](https://img.shields.io/badge/2024.03~-6B6B6B?style=for-the-badge&logo=eee&logoColor=000)![](https://img.shields.io/badge/Sophia%20Game%20Project-F1F1F1?style=for-the-badge&logo=eee&logoColor=000)
-</br>
-![](https://img.shields.io/badge/🏅-PlayX4%20참가%20게임%20개발팀%20선정-blue)
-</br>
-![](https://img.shields.io/badge/💡%20UI기획:%2050-5DBF4D) ![](https://img.shields.io/badge/🎨%20UI디자인:%20100-FF8E8E)
-</br>
-**프로젝트 소개**
-</br>
-3d 쿼터뷰 액션게임으로 총 2챕터로 구성 되어있는 PC게임입니다. <a href="https://game.naver.com/lounge/GEAR_HEART/home">more</a>
+> `🏆 2024 KGDCon 참가 개발팀 선정` `🏆 2024 PlayX4 참가 개발팀 선정` `🏆 Indiecraft Top 20 선정`
+> <details>
+> <summary><b> Project LAMB : Sophia - 가상 현실과 현실을 넘나들며 딸을 구하기 위해 치열한 전투를 벌이는 3D 쿼터뷰 액션 게임 👾 </b> </summary>
+> <div markdown="1">
+> 기간: 2024.03 ~ 현재
+> 
+> 기여도: UI/UX 디자인 100%
+> 
+> 상세보기: <a href="https://www.youtube.com/watch?v=7RgaO-wQHn8">게임 소개 영상 보기</a>
+>  </div>
+>  </details>
 
-</br>
+> `🏆 2024 Google Solution Challenge Top 100 선정`
+> <details>
+> <summary><b> Google(GDSC) : COM-MA - 어린이 코다에게 농인 부모가 직접 수화 교육을 진행할 수 있게 도움을 주는 ‘AI 카메라 기반 수화 학습 교육 서비스’ 📖 </b> </summary>
+> <div markdown="1">
+> 기간: 2023.12 ~ 2024.05
+> 
+> 기여도: 기획 40% / UI/UX 디자인 100%
+>  </div>
+>  </details>
 
-![](https://img.shields.io/badge/2023.12~-6B6B6B?style=for-the-badge&logo=eee&logoColor=000)![](https://img.shields.io/badge/COMMA%20Service-F1F1F1?style=for-the-badge&logo=eee&logoColor=000)
-</br>
-![](https://img.shields.io/badge/🏅-Solution%20Challenge%20Global%20Top%20100%20선정-blue)
-</br>
-![](https://img.shields.io/badge/💡%20기획:%2050-5DBF4D) ![](https://img.shields.io/badge/🎨%20UI/UX디자인:%20100-FF8E8E)
-</br>
-**프로젝트 소개**
-</br>
-COMMA는 어린이 코다에게 농인 부모가 직접 수화 언어 교육을 진행할 수 있게 도움을 주는 ‘AI 카메라 기반 수화 학습 교육 서비스’입니다. <a href="https://github.com/COM-MA">more</a>
+> `🏆 2024 C.UNICON 최우수상 수상`
+> <details>
+> <summary><b> 하나텍시스템 : Smartcity Vision CF - 생성형 AI 기반 하나텍시스템 기술 전파 및 스마트시티 구축 전파 프로젝트 🏙️ </b> </summary>
+> <div markdown="1">
+> 2024.03 ~ 2024.06
+>  </div>
+>  </details>
 
-</br>
+> `🏆 2024 K톤 수도권 2분과 결선 진출`
+> <details>
+> <summary><b> K-HACKATHON 12 : Work2gather - 고립 청년들을 위한 메타버스 기반, 가상 직무 체험 및 익명 상담 서비스 💼 </b> </summary>
+> <div markdown="1">
+> 2024.03 ~ 2024.06
+>  </div>
+>  </details>
 
-![](https://img.shields.io/badge/2023.05~-6B6B6B?style=for-the-badge&logo=eee&logoColor=000)![](https://img.shields.io/badge/Health%20Genie%20Service-F1F1F1?style=for-the-badge&logo=eee&logoColor=000)
-</br>
-![](https://img.shields.io/badge/💡%20기획:%2020-5DBF4D) ![](https://img.shields.io/badge/🎨%20UI/UX디자인:%20100-FF8E8E)
-</br>
-**프로젝트 소개**
-</br>
-Health-Genie는 대학생 간의 1:1 PT 매칭을 편하게 해주는 서비스 입니다.
+> `🏆 2023 Final Top 7 teams`
+> <details>
+> <summary><b> CNU/DIMA : MEMORY CELL - 전라남도 여수의 무인도 '상화도' 메타버스 재해석 및 랜드마크 건축물 제작 프로젝트 🏝️ </b> </summary>
+> <div markdown="1">
+> 세부내용입니다.
+>  </div>
+>  </details>
 
-</br>
+> `2024.07.11 ~ 진행중`
+> <details>
+> <summary><b> COM-US - 농인 부모와 코다간의 소통과 정서적 교감을 지원하는 AI 기반 서비스 👋 </b> </summary>
+> <div markdown="1">
+> 세부내용입니다.
+>  </div>
+>  </details>
 
-![](https://img.shields.io/badge/2023.11~12-6B6B6B?style=for-the-badge&logo=eee&logoColor=000)![](https://img.shields.io/badge/시냇물:%20생성형%20AI에%20대해%20모든%20것을%20물어봐요!-F1F1F1?style=for-the-badge&logo=eee&logoColor=000)
-</br>
-![](https://img.shields.io/badge/💡%20기획:%2040-5DBF4D) ![](https://img.shields.io/badge/🎨%20UI/UX디자인:%20100-FF8E8E)
-</br>
-**프로젝트 소개**
-</br>
-시냇물 서비스는 생성형 AI에 대해 모든 것을 물어보고 답할 수 있는 지식 커뮤니티 서비스 입니다. <a href="https://www.behance.net/gallery/187349177/AI-">more</a>
+> `2024.07.29 ~ 08.01`
+> <details>
+> <summary><b> KAIST(SPARCS) : 동심동덕 - 액티브 시니어의 덕질 문화를 지역 커뮤니티에서 활성화하고 소통과 참여를 촉진하는 플랫폼 🧑‍🤝‍🧑 </b> </summary>
+> <div markdown="1">
+> 세부내용입니다.
+>  </div>
+>  </details>
 
-</br>
+> `2024.05.17 ~ 05.18`
+> <details>
+> <summary><b> DND : 정책스푼 - 청년정책을 한눈에 모아보고, AI 챗봇 추천과 후기 기반 정보로 맞춤형 정책을 확인할 수 있는 플랫폼 🔎 </b> </summary>
+> <div markdown="1">
+> 세부내용입니다.
+>  </div>
+>  </details>
 
-![](https://img.shields.io/badge/2023.09~10-6B6B6B?style=for-the-badge&logo=eee&logoColor=000)![](https://img.shields.io/badge/내%20손%20안의%20AI%20가이드:%20POCKET%20AI-F1F1F1?style=for-the-badge&logo=eee&logoColor=000)
-</br>
-![](https://img.shields.io/badge/💡%20기획:%2040-5DBF4D) ![](https://img.shields.io/badge/🎨%20UI/UX디자인:%2070-FF8E8E)
-</br>
-**프로젝트 소개**
-</br>
-POCKET AI는 수많은 생성형 AI 서비스를 탐색해 자신에게 맞는 서비스를 간편하게 선택할 수 있도록 도와주는 앱 서비스입니다.  <a href="https://www.behance.net/gallery/187349025/POCKET-AI-AI-">more</a>
+> `2023.08.18 ~ 08.20`
+> <details>
+> <summary><b> 2023 Junction Asia : KIWEE - 개인화된 QR 코드와 키오스크 KiWee Station을 통해 간편하게 주문하며 음식 픽업 이용을 장려하는 플랫폼 🍔 </b> </summary>
+> <div markdown="1">
+> 세부내용입니다.
+>  </div>
+>  </details>
 
-</br>
+> `2023.05.01 ~ 12.30`
+> <details>
+> <summary><b> 사이드 프로젝트 : Health-Genie - 대학생 간 간편한 1:1 PT 매칭을 연결하는 앱 서비스 🏋️ </b> </summary>
+> <div markdown="1">
+> 세부내용입니다.
+>  </div>
+>  </details>
 
-![](https://img.shields.io/badge/2023.08-6B6B6B?style=for-the-badge&logo=eee&logoColor=000)![](https://img.shields.io/badge/KiWee%20Project-F1F1F1?style=for-the-badge&logo=eee&logoColor=000)
-</br>
-![](https://img.shields.io/badge/💡%20기획:%2030-5DBF4D) ![](https://img.shields.io/badge/🎨%20UI/UX디자인:%20100-FF8E8E)
-</br>
-**프로젝트 소개**
-</br>
-KiWee 프로젝트는 개인화된 QR 코드와 KiWee Station라는 이름의 키오스크를 통해 간편하게 주문하며 음식 픽업 이용을 장려하는 플랫폼입니다.  <a href="https://github.com/no-ikjun/kiwee-app">more</a>
+> `2023.10.20 ~ 12.30`
+> <details>
+> <summary><b> DIMA : 시냇물 - 생성형 AI에 대해 모든 것을 물어보고 답할 수 있는 지식 커뮤니티 서비스 👀 </b> </summary>
+> <div markdown="1">
+> 세부내용입니다.
+>  </div>
+>  </details>
 
-</br>
+> `2023.10.20 ~ 12.30`
+> <details>
+> <summary><b> DIMA : POCKET AI - 수많은 생성형 AI 서비스를 탐색해 자신에게 맞는 서비스를 간편하게 선택할 수 있도록 돕는 앱 서비스 💫 </b> </summary>
+> <div markdown="1">
+> 세부내용입니다.
+>  </div>
+>  </details>
 
-![](https://img.shields.io/badge/2023.05~08-6B6B6B?style=for-the-badge&logo=eee&logoColor=000)![](https://img.shields.io/badge/Memory%20Cell%20(Meta%20Island%20Project)-F1F1F1?style=for-the-badge&logo=eee&logoColor=000)
-</br>
-![](https://img.shields.io/badge/🏅-파이널%20그룹%20최종%207팀%20당선-blue)
-</br>
-![](https://img.shields.io/badge/💡%20기획:%2030-5DBF4D) ![](https://img.shields.io/badge/🎨%20컨셉%20아트%20디자인:%2050-FF8E8E)
-</br>
-**프로젝트 소개**
-</br>
-전라남도 여수에 위치한 '상화도'라는 무인도를 메타버스의 공간으로 재 해색해 랜드마크 건축물을 제작한 프로젝트 입니다. <a href="https://sites.google.com/view/meta-island/home">more</a>
 <!--
 **eunarae/eunarae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

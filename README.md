@@ -39,7 +39,7 @@ I'm a student aspiring to be a UI/UX designer, primarily focusing on web and app
 
 > `🏆 2024 Google Solution Challenge Top 100 선정`
 > <details>
-> <summary><b> Google(GDSC) : COM-MA - 어린이 코다에게 농인 부모가 직접 수화 교육을 진행할 수 있게 도움을 주는 ‘AI 카메라 기반 수화 학습 교육 서비스’ 📖 </b> </summary>
+> <summary><b> Google(GDSC) : COM-MA - 어린이 코다에게 농인 부모가 직접 수화 교육을 진행할 수 있게 돕는 ‘AI 카메라 기반 수화 학습 교육 서비스’ 📖 </b> </summary>
 > <div markdown="1">
 > 기간: 2023.12 ~ 2024.05
 > 
@@ -97,7 +97,7 @@ I'm a student aspiring to be a UI/UX designer, primarily focusing on web and app
 
 > `2023.08.18 ~ 08.20`
 > <details>
-> <summary><b> 2023 Junction Asia : KIWEE - 개인화된 QR 코드와 키오스크 KiWee Station을 통해 간편하게 주문하며 음식 픽업 이용을 장려하는 플랫폼 🍔 </b> </summary>
+> <summary><b> 2023 Junction Asia : KIWEE - 개인화된 QR 코드와 키오스크 KiWee Station을 통해 간편하게 주문하며 음식 픽업을 장려하는 플랫폼 🍔 </b> </summary>
 > <div markdown="1">
 > 세부내용입니다.
 >  </div>

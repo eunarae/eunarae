@@ -30,10 +30,10 @@ I'm a student aspiring to be a UI/UX designer, primarily focusing on web and app
 > <summary><b> Project LAMB : Sophia - 가상 현실과 현실을 넘나들며 딸을 구하기 위해 치열한 전투를 벌이는 3D 쿼터뷰 액션 게임 👾 </b> </summary>
 > <div markdown="1">
 > 기간: 2024.03 ~ 현재
-> 
+>
 > 기여도: UI/UX 디자인 100%
-> 
-> 상세보기: <a href="https://www.youtube.com/watch?v=7RgaO-wQHn8">게임 소개 영상 보기</a>
+>
+> 상세보기: <a href="https://www.youtube.com/watch?v=7RgaO-wQHn8">게임 소개 영상 </a>
 >  </div>
 >  </details>
 
@@ -44,6 +44,8 @@ I'm a student aspiring to be a UI/UX designer, primarily focusing on web and app
 > 기간: 2023.12 ~ 2024.05
 > 
 > 기여도: 기획 40% / UI/UX 디자인 100%
+>
+> 상세보기: <a href="https://github.com/COM-MA">COM-MA 깃허브 </a>
 >  </div>
 >  </details>
 
@@ -52,6 +54,10 @@ I'm a student aspiring to be a UI/UX designer, primarily focusing on web and app
 > <summary><b> 하나텍시스템 : Smartcity Vision CF - 생성형 AI 기반 하나텍시스템 기술 전파 및 스마트시티 구축 전파 프로젝트 🏙️ </b> </summary>
 > <div markdown="1">
 > 2024.03 ~ 2024.06
+>
+> 기여도: 기획 40% / 영상 콘텐츠 제작 40%
+>
+> 상세보기: <a href="https://youtu.be/esRdLRszONQ">CF 영상 확인하기 </a>
 >  </div>
 >  </details>
 
@@ -59,7 +65,9 @@ I'm a student aspiring to be a UI/UX designer, primarily focusing on web and app
 > <details>
 > <summary><b> K-HACKATHON 12 : Work2gather - 고립 청년들을 위한 메타버스 기반, 가상 직무 체험 및 익명 상담 서비스 💼 </b> </summary>
 > <div markdown="1">
-> 2024.03 ~ 2024.06
+> 2024.06 ~ 2024.10
+>
+> 기여도: 기획 40% / UI/UX 디자인 100%
 >  </div>
 >  </details>
 
@@ -67,7 +75,9 @@ I'm a student aspiring to be a UI/UX designer, primarily focusing on web and app
 > <details>
 > <summary><b> CNU/DIMA : MEMORY CELL - 전라남도 여수의 무인도 '상화도' 메타버스 재해석 및 랜드마크 건축물 제작 프로젝트 🏝️ </b> </summary>
 > <div markdown="1">
-> 세부내용입니다.
+> 2023.05 ~ 2023.07
+>
+> 기여도: 콘텐츠 기획 50% / 컨셉아트 50%
 >  </div>
 >  </details>
 
@@ -75,7 +85,9 @@ I'm a student aspiring to be a UI/UX designer, primarily focusing on web and app
 > <details>
 > <summary><b> COM-US - 농인 부모와 코다간의 소통과 정서적 교감을 지원하는 AI 기반 서비스 👋 </b> </summary>
 > <div markdown="1">
-> 세부내용입니다.
+> 2023.05 ~ 2023.07
+>
+> 기여도: 기획 50% / UI/UX 디자인 100%
 >  </div>
 >  </details>
 
@@ -83,7 +95,9 @@ I'm a student aspiring to be a UI/UX designer, primarily focusing on web and app
 > <details>
 > <summary><b> KAIST(SPARCS) : 동심동덕 - 액티브 시니어의 덕질 문화를 지역 커뮤니티에서 활성화하고 소통과 참여를 촉진하는 플랫폼 🧑‍🤝‍🧑 </b> </summary>
 > <div markdown="1">
-> 세부내용입니다.
+> 2024.08
+>
+> 기여도: 기획 40% / UI/UX 디자인 100%
 >  </div>
 >  </details>
 
@@ -91,7 +105,9 @@ I'm a student aspiring to be a UI/UX designer, primarily focusing on web and app
 > <details>
 > <summary><b> DND : 정책스푼 - 청년정책을 한눈에 모아보고, AI 챗봇 추천과 후기 기반 정보로 맞춤형 정책을 확인할 수 있는 플랫폼 🔎 </b> </summary>
 > <div markdown="1">
-> 세부내용입니다.
+> 2024.05
+>
+> 기여도: 기획 40% / UI/UX 디자인 100%
 >  </div>
 >  </details>
 
@@ -99,7 +115,9 @@ I'm a student aspiring to be a UI/UX designer, primarily focusing on web and app
 > <details>
 > <summary><b> 2023 Junction Asia : KIWEE - 개인화된 QR 코드와 키오스크 KiWee Station을 통해 간편하게 주문하며 음식 픽업을 장려하는 플랫폼 🍔 </b> </summary>
 > <div markdown="1">
-> 세부내용입니다.
+> 2023.08
+>
+> 기여도: 기획 40% / UI/UX 디자인 100%
 >  </div>
 >  </details>
 
@@ -107,7 +125,9 @@ I'm a student aspiring to be a UI/UX designer, primarily focusing on web and app
 > <details>
 > <summary><b> 사이드 프로젝트 : Health-Genie - 대학생 간 간편한 1:1 PT 매칭을 연결하는 앱 서비스 🏋️ </b> </summary>
 > <div markdown="1">
-> 세부내용입니다.
+> 2023.05 ~ 2024.03
+>
+> 기여도: 기획 20% / UI/UX 디자인 100%
 >  </div>
 >  </details>
 
@@ -115,7 +135,9 @@ I'm a student aspiring to be a UI/UX designer, primarily focusing on web and app
 > <details>
 > <summary><b> DIMA : 시냇물 - 생성형 AI에 대해 모든 것을 물어보고 답할 수 있는 지식 커뮤니티 서비스 👀 </b> </summary>
 > <div markdown="1">
-> 세부내용입니다.
+> 2023.10 ~ 2023.12
+>
+> 기여도: 기획 40% / UI/UX 디자인 100%
 >  </div>
 >  </details>
 
@@ -123,7 +145,9 @@ I'm a student aspiring to be a UI/UX designer, primarily focusing on web and app
 > <details>
 > <summary><b> DIMA : POCKET AI - 수많은 생성형 AI 서비스를 탐색해 자신에게 맞는 서비스를 간편하게 선택할 수 있도록 돕는 앱 서비스 💫 </b> </summary>
 > <div markdown="1">
-> 세부내용입니다.
+> 2023.09 ~ 2023.10
+>
+> 기여도: 기획 50% / UI/UX 디자인 100%
 >  </div>
 >  </details>
 

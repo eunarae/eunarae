@@ -33,7 +33,7 @@ I'm a student aspiring to be a UI/UX designer, primarily focusing on web and app
 >
 > 기여도: UI/UX 디자인 100%
 >
-> 상세보기: <a href="https://www.youtube.com/watch?v=7RgaO-wQHn8">게임 소개 영상 </a>
+> 상세보기: <a href="https://store.onstove.com/ko/games/4057">게임 소개 페이지 </a>
 >  </div>
 >  </details>
 
@@ -81,11 +81,11 @@ I'm a student aspiring to be a UI/UX designer, primarily focusing on web and app
 >  </div>
 >  </details>
 
-> `2024.07.11 ~ 진행중`
+> `🏆 2024 사이드임팩트(스파크) 라운드 1 선정`
 > <details>
 > <summary><b> COM-US - 농인 부모와 코다간의 소통과 정서적 교감을 지원하는 AI 기반 서비스 👋 </b> </summary>
 > <div markdown="1">
-> 2023.05 ~ 2023.07
+> 2024.07.11 ~ 진행중
 >
 > 기여도: 기획 50% / UI/UX 디자인 100%
 >  </div>

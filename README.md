@@ -37,6 +37,26 @@ I'm a student aspiring to be a UI/UX designer, primarily focusing on web and app
 >  </div>
 >  </details>
 
+> `🏆 2024 사이드임팩트(스파크) 우수 프로젝트 선정`
+> <details>
+> <summary><b> COM-US - 농인 부모와 코다간의 소통과 정서적 교감을 지원하는 AI 기반 서비스 👋 </b> </summary>
+> <div markdown="1">
+> 2024.07 ~ 2024.10
+>
+> 기여도: 기획 50% / UI/UX 디자인 100%
+>  </div>
+>  </details>
+
+> `🏆 글로벌 데이터 해커톤 DIVE 2024 발제사 1위(ANSYS 부문) `
+> <details>
+> <summary><b> Ansys Discovery Chat-bot - LLM 기반 생성적 엔지니어링 디자인 제안 🔧 </b> </summary>
+> <div markdown="1">
+> 2024.10.04 ~ 10.06
+>
+> 기여도: 기획 20% / UI/UX 디자인 100%
+>  </div>
+>  </details>
+
 > `🏆 2024 Google Solution Challenge Top 100 선정`
 > <details>
 > <summary><b> Google(GDSC) : COM-MA - 어린이 코다에게 농인 부모가 직접 수화 교육을 진행할 수 있게 돕는 ‘AI 카메라 기반 수화 학습 교육 서비스’ 📖 </b> </summary>
@@ -78,16 +98,6 @@ I'm a student aspiring to be a UI/UX designer, primarily focusing on web and app
 > 2023.05 ~ 2023.07
 >
 > 기여도: 콘텐츠 기획 50% / 컨셉아트 50%
->  </div>
->  </details>
-
-> `🏆 2024 사이드임팩트(스파크) 라운드 1 선정`
-> <details>
-> <summary><b> COM-US - 농인 부모와 코다간의 소통과 정서적 교감을 지원하는 AI 기반 서비스 👋 </b> </summary>
-> <div markdown="1">
-> 2024.07.11 ~ 진행중
->
-> 기여도: 기획 50% / UI/UX 디자인 100%
 >  </div>
 >  </details>
 
